@@ -1,0 +1,6 @@
+module Pods_GreatImages {
+  umbrella header "Pods-GreatImages-umbrella.h"
+
+  export *
+  module * { export * }
+}
